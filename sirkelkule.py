@@ -1,6 +1,6 @@
 #!/bin/env python3
 
-pi = 3.141592653589793238462643383279502884197
+pi = 3.1415926535897932384626433832795028841971
 
 def skrivinn(tekst, gjenta = True):
     print(tekst)
